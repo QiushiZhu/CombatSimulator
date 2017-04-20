@@ -1,0 +1,6 @@
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe.config
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.exe
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\bin\Debug\CombatSimulator.pdb
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.csprojResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.exe
+d:\mydocuments\visual studio 2013\Projects\CombatSimulator\CombatSimulator\obj\Debug\CombatSimulator.pdb
